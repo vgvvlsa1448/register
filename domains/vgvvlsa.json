@@ -3,7 +3,7 @@
     "username": "vgvvlsa1448",
     "email": "vgvvlsa@gmail.com"
   },
-  "record": {
-    "CNAME": "cname.vercel-dns.com"
+  "records": {
+    "CNAME": "vgvvlsa-dev-tuzv.onrender.com"
   }
 }
